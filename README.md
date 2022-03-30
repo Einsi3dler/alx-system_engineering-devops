@@ -1,1 +1,1 @@
-This repository is used for making different scripts
+This project is making lose my shit
